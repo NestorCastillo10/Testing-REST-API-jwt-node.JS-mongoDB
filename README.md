@@ -1,6 +1,6 @@
 # Automated API tests in Postman - Chai Assertion Library
 
-##### This is a project to demonstate the Rest API testing process on locally set environment. Concept applied is CRUD. Chai Assertion Library is used. 
+##### This is a project to demonstrate the Rest API testing process in a locally set environment. The concept applied is CRUD. Chai Assertion Library is used. 
 #
   [**Link to my postman collections**](https://documenter.getpostman.com/view/6872289/TVep87dG#intro)
 
